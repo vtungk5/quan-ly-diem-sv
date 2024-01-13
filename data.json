@@ -1,0 +1,62 @@
+[
+  {
+    "Mã sinh viên": "T38VX",
+    "họ và tên": "VUONG THANH TUNG",
+    "Ngày sinh": "15/06/2005",
+    "Quê quán": "HAI DUONG",
+    "điểm": [
+      {
+        "Toán": 5,
+        "Lí": 5,
+        "Hóa": 5,
+        "Trung Bình": 5,
+        "Hạnh kiểm": "trung bình"
+      }
+    ]
+  },
+  {
+    "Mã sinh viên": "T38V2",
+    "họ và tên": "VUONG THANH TUNG 2",
+    "Ngày sinh": "15/06/2005",
+    "Quê quán": "HAI DUONG",
+    "điểm": [
+      {
+        "Toán": 5,
+        "Lí": 5,
+        "Hóa": 5,
+        "Trung Bình": 5,
+        "Hạnh kiểm": "trung bình"
+      }
+    ]
+  },
+  {
+    "Mã sinh viên": "T38V3",
+    "họ và tên": "VUONG THANH TUNG 3",
+    "Ngày sinh": "15/06/2005",
+    "Quê quán": "HAI DUONG",
+    "điểm": [
+      {
+        "Toán": 5,
+        "Lí": 5,
+        "Hóa": 5,
+        "Trung Bình": 5,
+        "Hạnh kiểm": "trung bình"
+      }
+    ]
+  },
+  {
+    "Mã sinh viên": "T38V4",
+    "họ và tên": "VUONG THANH TUNG 4",
+    "Ngày sinh": "15/06/2005",
+    "Quê quán": "HAI DUONG",
+    "điểm": [
+      {
+        "Toán": 5,
+        "Lí": 5,
+        "Hóa": 5,
+        "Trung Bình": 5,
+        "Hạnh kiểm": "trung bình"
+      }
+    ]
+  }
+]

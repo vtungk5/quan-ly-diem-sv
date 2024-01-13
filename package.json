@@ -1,0 +1,15 @@
+{
+  "name": "tungmmo",
+  "version": "1.0.0",
+  "description": "source code quản lý sinh viên",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "vuong thanh tung",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "readline-sync": "^1.4.10"
+  }
+}
